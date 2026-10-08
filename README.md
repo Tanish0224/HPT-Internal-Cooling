@@ -58,7 +58,7 @@ Details, sources and the decision list are in [`design/`](design/README.md).
 
 | Feature | Reason |
 |---|---|
-| Two circuits fed from the root | The showerhead exits at near-stagnation pressure and the trailing edge at the lowest, so each circuit has its own supply (DECISION). The two-circuit design has a showerhead back-flow margin of 0.11 (CALCULATED, 94-hole model); a shared-supply case was not calculated |
+| Two circuits fed from the root | The showerhead exits at near-stagnation pressure and the trailing edge at the lowest, so each circuit has its own supply. The two-circuit design has a showerhead back-flow margin of 0.11 (CALCULATED, 94-hole model); a shared-supply case was not calculated |
 | Impingement jets in the leading edge | Highest external heat transfer is at the stagnation region; the jets give the nose its internal cooling |
 | Three-pass ribbed serpentine | A two-pass layout with large passages warmed the coolant only 60–80 K; smaller passages and three passes raised the exit temperature to about 970 K at about 3 % flow |
 | Trailing edge fed from the first pass | The coolest air goes to the thinnest, hardest-to-cool region, as in the reference engine |
