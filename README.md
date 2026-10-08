@@ -84,15 +84,6 @@ holes ended in a dead-end tail and the last trailing-edge crossover hole overlap
 ([why](design/README.md#from-94-to-91-hole-features)). The CAD files, their identification hashes and the coordinate
 system are described in [`cad/`](cad/README.md).
 
-## Geometry review
-
-The exported CAD was examined for what a cooling design needs from its geometry: that every hole cuts through into its
-passage, that the 11 trailing-edge slots are open from the pin cavity to the outside, that the six passages and two root
-feeds are connected where intended and separate where not, and that the walls keep their thickness. Wall thickness was
-sampled on the solid (minimum 0.68 mm at the trailing-edge lip, 0.85 mm in the webs). SolidWorks imports the model as one
-body with a volume that agrees with the independent measurement to about 0.01 %. Methods, results and exceptions are in
-[`verification/`](verification/README.md).
-
 ## Key results
 
 The current CAD model is a single valid blade solid with 1,542 faces and 17,216.6 mm³ volume. All 91 cooling-hole openings and 11 trailing-edge discharge slots were confirmed on the exported geometry, with sampled wall thickness of at least 0.68 mm.
