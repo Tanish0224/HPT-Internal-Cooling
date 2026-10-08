@@ -1,0 +1,16 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "parts": [
+  "E"
+ ],
+ "fams": [
+  "showerhead",
+  "TE_crossover"
+ ],
+ "seed": 20261005,
+ "beyond_mm": 0.15,
+ "unintended": {
+  "pairs_tested": 27,
+  "found": []
+ }
+}

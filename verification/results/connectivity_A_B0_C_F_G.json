@@ -1,0 +1,2457 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "parts": [
+  "A",
+  "B0",
+  "C",
+  "F",
+  "G"
+ ],
+ "fams": [],
+ "seed": 20261005,
+ "beyond_mm": 0.15,
+ "through_ends": {
+  "LE_jets": [
+   {
+    "hole": 0,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.614,
+       -0.806,
+       255.299
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.783,
+       0.746,
+       255.299
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.334,
+       -0.145,
+       257.9
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.472,
+       1.369,
+       257.897
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.071,
+       0.498,
+       260.5
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.175,
+       1.97,
+       260.493
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.823,
+       1.122,
+       263.098
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -10.893,
+       2.547,
+       263.088
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.594,
+       1.728,
+       265.695
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -10.626,
+       3.102,
+       265.682
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.384,
+       2.317,
+       268.29
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -10.378,
+       3.635,
+       268.276
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.194,
+       2.891,
+       270.885
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -10.15,
+       4.148,
+       270.868
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.025,
+       3.451,
+       273.478
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.943,
+       4.644,
+       273.461
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.879,
+       3.999,
+       276.071
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.759,
+       5.124,
+       276.053
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.758,
+       4.538,
+       278.663
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.6,
+       5.589,
+       278.644
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.661,
+       5.068,
+       281.254
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.468,
+       6.044,
+       281.235
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.589,
+       5.593,
+       283.845
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.363,
+       6.49,
+       283.826
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.543,
+       6.112,
+       286.435
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.286,
+       6.928,
+       286.416
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.522,
+       6.627,
+       289.024
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.237,
+       7.362,
+       289.006
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.526,
+       7.14,
+       291.613
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.217,
+       7.792,
+       291.596
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.555,
+       7.65,
+       294.201
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -9.224,
+       8.22,
+       294.185
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "TE_crossover": [
+   {
+    "hole": 0,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.793,
+       -3.358,
+       254.978
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       8.104,
+       -1.653,
+       254.995
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.725,
+       -3.561,
+       256.976
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       8.06,
+       -1.832,
+       256.994
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.66,
+       -3.749,
+       258.973
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       8.02,
+       -1.997,
+       258.993
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.6,
+       -3.922,
+       260.971
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.982,
+       -2.15,
+       260.992
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.544,
+       -4.081,
+       262.969
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.948,
+       -2.289,
+       262.99
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.494,
+       -4.226,
+       264.967
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.917,
+       -2.417,
+       264.989
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.448,
+       -4.357,
+       266.965
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.89,
+       -2.532,
+       266.988
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.406,
+       -4.475,
+       268.963
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.865,
+       -2.635,
+       268.987
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.369,
+       -4.58,
+       270.962
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.844,
+       -2.727,
+       270.987
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.336,
+       -4.672,
+       272.96
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.826,
+       -2.807,
+       272.986
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.306,
+       -4.752,
+       274.959
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.81,
+       -2.876,
+       274.985
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.281,
+       -4.82,
+       276.958
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.797,
+       -2.933,
+       276.985
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.258,
+       -4.876,
+       278.958
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.786,
+       -2.98,
+       278.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.239,
+       -4.92,
+       280.957
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.778,
+       -3.016,
+       280.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.222,
+       -4.953,
+       282.957
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.772,
+       -3.041,
+       282.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.209,
+       -4.976,
+       284.957
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.768,
+       -3.057,
+       284.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 16,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.2,
+       -4.988,
+       286.957
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.767,
+       -3.063,
+       286.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 17,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.195,
+       -4.992,
+       288.957
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.769,
+       -3.061,
+       288.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 18,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.193,
+       -4.986,
+       290.958
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.775,
+       -3.05,
+       290.984
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 19,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       9.196,
+       -4.973,
+       292.958
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       7.785,
+       -3.032,
+       292.985
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "showerhead": [
+   {
+    "hole": 0,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.557,
+       -2.253,
+       260.631
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0219
+     },
+     {
+      "beyond": [
+       -13.516,
+       0.004,
+       256.739
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.107,
+       -1.192,
+       264.888
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0326
+     },
+     {
+      "beyond": [
+       -13.036,
+       1.06,
+       260.993
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.776,
+       -0.186,
+       269.14
+      ],
+      "void": true,
+      "dist_intended_mm": 1.009
+     },
+     {
+      "beyond": [
+       -12.636,
+       2.06,
+       265.243
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.434,
+       0.767,
+       273.388
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0076
+     },
+     {
+      "beyond": [
+       -12.267,
+       3.007,
+       269.489
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.109,
+       1.672,
+       277.634
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0205
+     },
+     {
+      "beyond": [
+       -11.936,
+       3.909,
+       273.733
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.915,
+       2.549,
+       281.877
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0156
+     },
+     {
+      "beyond": [
+       -11.705,
+       4.779,
+       277.974
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.938,
+       3.419,
+       286.117
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9961
+     },
+     {
+      "beyond": [
+       -11.642,
+       5.637,
+       282.213
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.895,
+       4.259,
+       290.356
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0125
+     },
+     {
+      "beyond": [
+       -11.569,
+       6.47,
+       286.45
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -11.949,
+       5.092,
+       294.593
+      ],
+      "void": true,
+      "dist_intended_mm": 1.069
+     },
+     {
+      "beyond": [
+       -11.584,
+       7.294,
+       290.686
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -15.151,
+       -2.439,
+       258.504
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9849
+     },
+     {
+      "beyond": [
+       -13.918,
+       -0.549,
+       254.611
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.68,
+       -1.345,
+       262.762
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0389
+     },
+     {
+      "beyond": [
+       -13.468,
+       0.555,
+       258.867
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.264,
+       -0.311,
+       267.015
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0213
+     },
+     {
+      "beyond": [
+       -13.079,
+       1.602,
+       263.118
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.873,
+       0.648,
+       271.264
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0054
+     },
+     {
+      "beyond": [
+       -12.749,
+       2.594,
+       267.365
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.548,
+       1.563,
+       275.509
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0147
+     },
+     {
+      "beyond": [
+       -12.483,
+       3.538,
+       271.609
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.34,
+       2.467,
+       279.752
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0199
+     },
+     {
+      "beyond": [
+       -12.289,
+       4.447,
+       275.851
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.18,
+       3.329,
+       283.993
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0036
+     },
+     {
+      "beyond": [
+       -12.171,
+       5.327,
+       280.09
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 16,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.135,
+       4.192,
+       288.232
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9945
+     },
+     {
+      "beyond": [
+       -12.129,
+       6.19,
+       284.327
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 17,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.189,
+       5.054,
+       292.468
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0348
+     },
+     {
+      "beyond": [
+       -12.173,
+       7.044,
+       288.562
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 18,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -15.752,
+       -0.721,
+       260.639
+      ],
+      "void": true,
+      "dist_intended_mm": 1.008
+     },
+     {
+      "beyond": [
+       -13.58,
+       -0.133,
+       256.742
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 19,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -15.317,
+       0.307,
+       264.889
+      ],
+      "void": true,
+      "dist_intended_mm": 1.0113
+     },
+     {
+      "beyond": [
+       -13.159,
+       0.942,
+       260.992
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 20,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.953,
+       1.321,
+       269.136
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9946
+     },
+     {
+      "beyond": [
+       -12.797,
+       1.96,
+       265.238
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 21,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.641,
+       2.24,
+       273.38
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9918
+     },
+     {
+      "beyond": [
+       -12.502,
+       2.93,
+       269.482
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 22,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.389,
+       3.09,
+       277.622
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9961
+     },
+     {
+      "beyond": [
+       -12.283,
+       3.869,
+       273.722
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 23,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.229,
+       3.953,
+       281.861
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9895
+     },
+     {
+      "beyond": [
+       -12.142,
+       4.779,
+       277.961
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 24,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.148,
+       4.794,
+       286.098
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9776
+     },
+     {
+      "beyond": [
+       -12.082,
+       5.668,
+       282.198
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 25,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.151,
+       5.63,
+       290.334
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9812
+     },
+     {
+      "beyond": [
+       -12.105,
+       6.548,
+       286.432
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 26,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.244,
+       6.487,
+       294.567
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9966
+     },
+     {
+      "beyond": [
+       -12.205,
+       7.417,
+       290.664
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "SS_row": [
+   {
+    "hole": 0,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.788,
+       -1.165,
+       255.02
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -14.443,
+       2.979,
+       254.984
+      ],
+      "void": true,
+      "dist_intended_mm": 1.7968
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -14.421,
+       -0.36,
+       258.624
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -13.935,
+       3.921,
+       258.571
+      ],
+      "void": true,
+      "dist_intended_mm": 1.7351
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.804,
+       1.181,
+       262.213
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -13.643,
+       4.784,
+       262.157
+      ],
+      "void": true,
+      "dist_intended_mm": 1.7351
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.442,
+       2.092,
+       265.808
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -13.09,
+       5.73,
+       265.739
+      ],
+      "void": true,
+      "dist_intended_mm": 1.832
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -13.237,
+       2.714,
+       269.402
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -12.814,
+       6.396,
+       269.325
+      ],
+      "void": true,
+      "dist_intended_mm": 1.699
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.976,
+       3.518,
+       272.994
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -12.352,
+       7.222,
+       272.905
+      ],
+      "void": true,
+      "dist_intended_mm": 1.729
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.834,
+       4.164,
+       276.585
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -12.073,
+       7.893,
+       276.488
+      ],
+      "void": true,
+      "dist_intended_mm": 1.6297
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.752,
+       4.751,
+       280.177
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.828,
+       8.545,
+       280.071
+      ],
+      "void": true,
+      "dist_intended_mm": 1.5458
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.708,
+       5.398,
+       283.766
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.611,
+       9.199,
+       283.652
+      ],
+      "void": true,
+      "dist_intended_mm": 1.498
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.747,
+       5.967,
+       287.356
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.474,
+       9.818,
+       287.233
+      ],
+      "void": true,
+      "dist_intended_mm": 1.4144
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.408,
+       7.201,
+       290.922
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.508,
+       10.483,
+       290.812
+      ],
+      "void": true,
+      "dist_intended_mm": 1.3753
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -12.537,
+       7.83,
+       294.507
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -11.52,
+       11.079,
+       294.392
+      ],
+      "void": true,
+      "dist_intended_mm": 1.249
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "SS2_row": [
+   {
+    "hole": 0,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -8.044,
+       5.517,
+       254.95
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -4.22,
+       7.906,
+       254.878
+      ],
+      "void": true,
+      "dist_intended_mm": 0.6614
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -7.537,
+       6.083,
+       258.536
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -3.476,
+       8.154,
+       258.471
+      ],
+      "void": true,
+      "dist_intended_mm": 0.6344
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -6.272,
+       6.673,
+       262.12
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -2.853,
+       8.457,
+       262.064
+      ],
+      "void": true,
+      "dist_intended_mm": 0.7987
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -5.747,
+       7.08,
+       265.709
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -2.191,
+       8.574,
+       265.662
+      ],
+      "void": true,
+      "dist_intended_mm": 0.8026
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -5.387,
+       7.428,
+       269.3
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -1.741,
+       8.687,
+       269.26
+      ],
+      "void": true,
+      "dist_intended_mm": 0.8111
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -4.897,
+       7.741,
+       272.892
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -1.167,
+       8.724,
+       272.861
+      ],
+      "void": true,
+      "dist_intended_mm": 0.8094
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -4.596,
+       8.033,
+       276.485
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -0.818,
+       8.81,
+       276.46
+      ],
+      "void": true,
+      "dist_intended_mm": 0.8027
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -4.475,
+       8.34,
+       280.077
+      ],
+      "void": false,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -0.671,
+       8.974,
+       280.056
+      ],
+      "void": true,
+      "dist_intended_mm": 0.8007
+     }
+    ],
+    "ok": false
+   },
+   {
+    "hole": 8,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -4.124,
+       8.612,
+       283.67
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -0.342,
+       9.053,
+       283.656
+      ],
+      "void": true,
+      "dist_intended_mm": 0.8134
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -3.594,
+       8.747,
+       287.268
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -0.242,
+       9.345,
+       287.248
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9459
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -3.515,
+       9.038,
+       290.86
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -0.148,
+       9.547,
+       290.843
+      ],
+      "void": true,
+      "dist_intended_mm": 0.9322
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -3.476,
+       9.344,
+       294.452
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     },
+     {
+      "beyond": [
+       -0.099,
+       9.78,
+       294.438
+      ],
+      "void": true,
+      "dist_intended_mm": 0.912
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "tip_holes": [
+   {
+    "hole": 0,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -6.877,
+       8.483,
+       298.129
+      ],
+      "void": true,
+      "dist_intended_mm": 1.5937
+     },
+     {
+      "beyond": [
+       -6.877,
+       8.483,
+       295.628
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -8.049,
+       8.739,
+       298.122
+      ],
+      "void": true,
+      "dist_intended_mm": 1.5935
+     },
+     {
+      "beyond": [
+       -8.049,
+       8.739,
+       295.621
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -1.516,
+       6.453,
+       298.18
+      ],
+      "void": true,
+      "dist_intended_mm": 1.5937
+     },
+     {
+      "beyond": [
+       -1.516,
+       6.453,
+       295.68
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "planar_faces": 2,
+    "ends": [
+     {
+      "beyond": [
+       -2.683,
+       7.069,
+       298.166
+      ],
+      "void": true,
+      "dist_intended_mm": 1.593
+     },
+     {
+      "beyond": [
+       -2.683,
+       7.069,
+       295.666
+      ],
+      "void": true,
+      "dist_intended_mm": 0.0
+     }
+    ],
+    "ok": true
+   }
+  ]
+ },
+ "links": [
+  {
+   "a": "feedA1",
+   "b": "A1",
+   "overlap_mm3": 11.678,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "feedB3",
+   "b": "B3",
+   "overlap_mm3": 10.5283,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "tip_turn",
+   "overlap_mm3": 36.0101,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "tip_turn",
+   "b": "B2",
+   "overlap_mm3": 70.3288,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B2",
+   "b": "root_turn",
+   "overlap_mm3": 99.0161,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "root_turn",
+   "b": "B1",
+   "overlap_mm3": 91.6155,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  }
+ ],
+ "inlets": {
+  "feedA1": {
+   "tool_zmin": 217.5,
+   "solid_zmin": 218.0,
+   "reaches_root_face": true,
+   "probe_in_tool": true,
+   "probe_void_in_solid": true
+  },
+  "feedB3": {
+   "tool_zmin": 217.5,
+   "solid_zmin": 218.0,
+   "reaches_root_face": true,
+   "probe_in_tool": true,
+   "probe_void_in_solid": true
+  }
+ },
+ "ligaments": {
+  "LE_jets": {
+   "n_pairs": 15,
+   "min_mm": 1.9648,
+   "median_mm": 1.9674
+  },
+  "TE_crossover": {
+   "n_pairs": 19,
+   "min_mm": 1.4,
+   "median_mm": 1.4005
+  },
+  "showerhead": {
+   "n_pairs": 26,
+   "min_mm": 2.0313,
+   "median_mm": 2.414
+  },
+  "SS_row": {
+   "n_pairs": 11,
+   "min_mm": 2.2203,
+   "median_mm": 2.3186
+  },
+  "SS2_row": {
+   "n_pairs": 11,
+   "min_mm": 2.0789,
+   "median_mm": 2.2582
+  },
+  "tip_holes": {
+   "n_pairs": 3,
+   "min_mm": 0.7199,
+   "median_mm": 0.75
+  }
+ },
+ "design_check": {
+  "families": {
+   "LE_jets": {
+    "count": 16,
+    "design_d": 0.65,
+    "diameters": [
+     0.65
+    ]
+   },
+   "TE_crossover": {
+    "count": 20,
+    "design_d": 0.6,
+    "diameters": [
+     0.6
+    ]
+   },
+   "showerhead": {
+    "count": 27,
+    "design_d": 0.45,
+    "diameters": [
+     0.45
+    ]
+   },
+   "SS_row": {
+    "count": 12,
+    "design_d": 0.45,
+    "diameters": [
+     0.45
+    ]
+   },
+   "SS2_row": {
+    "count": 12,
+    "design_d": 0.45,
+    "diameters": [
+     0.45
+    ]
+   },
+   "tip_holes": {
+    "count": 4,
+    "design_d": 0.6,
+    "diameters": [
+     0.45,
+     0.6
+    ]
+   }
+  },
+  "a1_tip_d": 0.45,
+  "a1_n_tip": 2,
+  "n_tip": 2,
+  "jet_pitch": 2.6
+ }
+}

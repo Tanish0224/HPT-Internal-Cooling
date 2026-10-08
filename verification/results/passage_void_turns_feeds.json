@@ -1,0 +1,44 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "n_requested": 300,
+ "seed": 20261005,
+ "passages": {
+  "tip_turn": {
+   "candidates": 872,
+   "n_in_tool": 300,
+   "n_in_features": 0,
+   "n_void": 300,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "root_turn": {
+   "candidates": 418,
+   "n_in_tool": 300,
+   "n_in_features": 0,
+   "n_void": 300,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "feed_A1": {
+   "candidates": 377,
+   "n_in_tool": 300,
+   "n_in_features": 0,
+   "n_void": 300,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "feed_B3": {
+   "candidates": 374,
+   "n_in_tool": 300,
+   "n_in_features": 0,
+   "n_void": 300,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  }
+ },
+ "PASS": true
+}

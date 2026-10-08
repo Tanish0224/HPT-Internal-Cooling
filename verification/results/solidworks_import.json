@@ -1,0 +1,29 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "sha256": "4c14c283f21bb52f6cf5d5999b513e2f4c9afe97870de5d70162ee2868d56132",
+ "notes": [],
+ "errors": [],
+ "sw_revision": "34.3.2",
+ "method": "LoadFile2 + ActiveDoc",
+ "loadfile2_returned": true,
+ "load_secs": 40.0,
+ "bodies": 1,
+ "surface_bodies": 0,
+ "volume_mm3": 17218.54735448999,
+ "bbox_mm": [
+  -18.87954,
+  -31.584443,
+  217.999975,
+  22.521602,
+  15.947395,
+  297.5025
+ ],
+ "faces": {
+  "planes": 926,
+  "cylinders": 296,
+  "other": 329
+ },
+ "check2": 2,
+ "faces_total": 1551,
+ "secs_total": 54.1
+}

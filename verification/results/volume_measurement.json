@@ -1,0 +1,12 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "sha256": "4c14c283f21bb52f6cf5d5999b513e2f4c9afe97870de5d70162ee2868d56132",
+ "n_solids": 1,
+ "faces": 1542,
+ "valid": true,
+ "mesh_tol_mm": 0.01,
+ "volume_mesh_mm3": 17308.312383206092,
+ "mesh_triangles": 378435,
+ "volume_adaptive_mm3": 17216.58959185559,
+ "secs": 1139.7508704662323
+}

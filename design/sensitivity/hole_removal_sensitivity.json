@@ -1,0 +1,26 @@
+{
+ "as_designed_94holes": {
+  "m_total_gs": 38.645708365826586,
+  "coolant_pct_core": 3.1931295250998137,
+  "T_max_blade": 1311.7498668061235,
+  "T_bulk_mean": 1146.9853051172192
+ },
+ "filtered_91holes": {
+  "m_total_gs": 38.12465174552006,
+  "coolant_pct_core": 3.1500768460597595,
+  "T_max_blade": 1317.203600808755,
+  "T_bulk_mean": 1150.6764914779553
+ },
+ "bound_showerhead_only": {
+  "m_total_gs": 38.34575830887617,
+  "coolant_pct_core": 3.1683459353196177,
+  "T_max_blade": 1317.2066183442548,
+  "T_bulk_mean": 1150.2400900451257
+ },
+ "bound_crossover_only": {
+  "m_total_gs": 38.424615639339805,
+  "coolant_pct_core": 3.174861579121263,
+  "T_max_blade": 1311.7471051664902,
+  "T_bulk_mean": 1147.4187853674641
+ }
+}

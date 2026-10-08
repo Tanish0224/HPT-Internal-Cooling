@@ -1,0 +1,121 @@
+{
+ "step": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "sha256": "4c14c283f21bb52f6cf5d5999b513e2f4c9afe97870de5d70162ee2868d56132",
+ "design": "filtered",
+ "overall": "PASS",
+ "stages": [
+  {
+   "stage": "S1 topology",
+   "verdict": "PASS",
+   "notes": [
+    "volume 16500.8 mm3 (GProp, indicative only: the periodic platform face can bias it; the adaptive volume is the reference)"
+   ],
+   "data": {
+    "n_solids": 1,
+    "valid": true,
+    "n_shells": 1,
+    "n_faces": 1542,
+    "volume_gprop_mm3": 16500.83685454783,
+    "bbox": [
+     -18.579,
+     21.543,
+     -30.59,
+     15.645,
+     218.0,
+     297.5
+    ]
+   }
+  },
+  {
+   "stage": "S2 connectivity",
+   "verdict": "PASS",
+   "notes": [],
+   "data": {
+    "n_links": 133,
+    "parts": [
+     "A",
+     "B",
+     "B0",
+     "C",
+     "E",
+     "F",
+     "G"
+    ],
+    "passages_checked": [
+     "cav_A1",
+     "cav_B1",
+     "cav_B2",
+     "cav_B3",
+     "cav_LE",
+     "cav_TE",
+     "feed_A1",
+     "feed_B3",
+     "root_turn",
+     "tip_turn"
+    ],
+    "isolation_pairs": 49,
+    "n_tip_a1": 2
+   }
+  },
+  {
+   "stage": "S3 breakthrough",
+   "verdict": "PASS",
+   "notes": [],
+   "data": {
+    "measured": {
+     "LE_jets": 16,
+     "TE_crossover": 20,
+     "showerhead": 27,
+     "SS_row": 12,
+     "SS2_row": 12,
+     "tip_holes": 4
+    }
+   }
+  },
+  {
+   "stage": "S3b open ends",
+   "verdict": "PASS",
+   "notes": [
+    "inner-end margin holes (inner end, confirmed by link + residual): ['SS2_row#7']"
+   ],
+   "data": {
+    "margin_holes": [
+     "SS2_row#7"
+    ]
+   }
+  },
+  {
+   "stage": "S3c film breakout",
+   "verdict": "PASS",
+   "notes": [
+    "tool-geometry test (axis crosses the outer surface, end in air); volume evidence is S3; no failing control exists"
+   ],
+   "data": {}
+  },
+  {
+   "stage": "S4 wall",
+   "verdict": "PASS",
+   "notes": [
+    "sampled minima: 400 skin points per face, webs 150 (wall_probe.py P[:150])"
+   ],
+   "data": {
+    "skin_min": {
+     "TE": 0.677,
+     "B1": 0.985,
+     "A1": 0.91,
+     "B2": 0.993,
+     "B3": 0.99,
+     "LE": 0.938
+    },
+    "web_min": 0.848,
+    "n_points_per_face": 400
+   }
+  },
+  {
+   "stage": "S5 TE exits",
+   "verdict": "PASS",
+   "notes": [],
+   "data": {}
+  }
+ ]
+}

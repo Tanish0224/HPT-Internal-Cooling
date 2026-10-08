@@ -1,0 +1,4 @@
+*.zip binary
+*.SLDPRT binary
+*.png binary
+*.step text eol=lf

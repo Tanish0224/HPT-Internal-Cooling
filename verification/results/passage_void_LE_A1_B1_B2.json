@@ -1,0 +1,44 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "n_requested": 300,
+ "seed": 20261005,
+ "passages": {
+  "cav_LE": {
+   "candidates": 3001,
+   "n_in_tool": 300,
+   "n_in_features": 0,
+   "n_void": 300,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "cav_A1": {
+   "candidates": 1513,
+   "n_in_tool": 300,
+   "n_in_features": 3,
+   "n_void": 297,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "cav_B1": {
+   "candidates": 1184,
+   "n_in_tool": 300,
+   "n_in_features": 2,
+   "n_void": 298,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "cav_B2": {
+   "candidates": 636,
+   "n_in_tool": 300,
+   "n_in_features": 6,
+   "n_void": 294,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  }
+ },
+ "PASS": true
+}

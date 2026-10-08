@@ -1,0 +1,87 @@
+{
+ "project": "HPT cooled-blade CAD, current baseline",
+ "units": "mm (z = span, root face at z = 218.0)",
+ "status": "Current CAD baseline for the stated scope. Documented geometry review only; not validated by CFD, CHT, FEA, experiment or manufacturing qualification.",
+ "baseline": {
+  "archive": "GE_EEDP_P01_HPT_Blade_baseline.step.zip",
+  "archive_sha256": "5448a1fa9b01792d776e222ca6beade4f63b71cad78d655b929b992308249be3",
+  "archive_bytes": 23805275,
+  "step_file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+  "step_sha256": "0608532f9fd9ea20456935ceb7e61efd4debf69f3551cc8b556dda7f9886b436",
+  "step_bytes": 88641149,
+  "data_section_sha256": "40af25a53b87757bab39f9a22e9a6a673b2acde272824fb64eb566e15ab8671e",
+  "data_section_note": "SHA-256 of the STEP bytes from the newline before the line 'DATA;' to the end of the file. It is identical to the file on which the geometry review was carried out (full-file SHA-256 below); only the header lines differ.",
+  "checked_file_sha256": "4c14c283f21bb52f6cf5d5999b513e2f4c9afe97870de5d70162ee2868d56132",
+  "expected": {
+   "solids": 1,
+   "valid": true,
+   "faces": 1542,
+   "face_types": {
+    "PLANE": 926,
+    "CYLINDER": 296,
+    "BSPLINE": 320
+   },
+   "bbox_mm": {
+    "x": [
+     -18.579,
+     21.543
+    ],
+    "y": [
+     -30.59,
+     15.645
+    ],
+    "z": [
+     218.0,
+     297.5
+    ]
+   },
+   "volume_mm3": {
+    "occ_adaptive": 17216.59,
+    "solidworks_34.3.2": 17218.547
+   },
+   "shells": 1
+  }
+ },
+ "structural_derivative": {
+  "archive": "GE_EEDP_P01_HPT_Blade_structural_derivative_for_FEA.step.zip",
+  "archive_sha256": "63d7f0b59e4b9374066860e8edf4c1e29badc18f16b59230aaa971900af00f21",
+  "archive_bytes": 5401467,
+  "step_file": "GE_EEDP_P01_HPT_Blade_structural_derivative_for_FEA.step",
+  "step_sha256": "91c01e3178cd2b68d6d738dfea3d788b830ddd336a6df20f4ebf19701ecbd12a",
+  "data_section_sha256": "b132ac154789e13cb2399b9391bef8940a13e522f4f6eda5a4221984df24d2ba",
+  "description": "Outer body and passage network only: holes, ribs, pins and the trailing-edge cut-back removed. Intended as a meshing-friendly starting point for a structural model.",
+  "expected": {
+   "solids": 1,
+   "valid": true,
+   "faces": 450,
+   "face_types": {
+    "PLANE": 396,
+    "CYLINDER": 40,
+    "BSPLINE": 14
+   },
+   "shells": 3,
+   "volume_mm3": {
+    "occ_adaptive": 17219.15
+   },
+   "bbox_mm": {
+    "x": [
+     -18.579,
+     21.543
+    ],
+    "y": [
+     -30.59,
+     15.645
+    ],
+    "z": [
+     218.0,
+     297.5
+    ]
+   }
+  }
+ },
+ "parent": {
+  "design": "previous design",
+  "step_sha256": "5996d5b9e0dd64a8401426b8acf988c99ddd46b00c11bb4ba04a215640d835c4",
+  "note": "Same cooling architecture; rib surfaces were faceted (3,846 faces in total). Not published here; the hash identifies the file whose face counts are compared with the current design."
+ }
+}

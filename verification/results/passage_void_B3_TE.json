@@ -1,0 +1,26 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "n_requested": 300,
+ "seed": 20261005,
+ "passages": {
+  "cav_B3": {
+   "candidates": 971,
+   "n_in_tool": 300,
+   "n_in_features": 7,
+   "n_void": 293,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  },
+  "cav_TE": {
+   "candidates": 2426,
+   "n_in_tool": 300,
+   "n_in_features": 38,
+   "n_void": 262,
+   "n_on": 0,
+   "n_metal": 0,
+   "metal_examples": []
+  }
+ },
+ "PASS": true
+}

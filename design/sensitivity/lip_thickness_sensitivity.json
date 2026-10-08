@@ -1,0 +1,20 @@
+{
+ "t_lip_0.75": {
+  "m_total_gs": 38.125,
+  "coolant_pct_core": 3.15,
+  "T_max_blade": 1317.204,
+  "T_bulk_mean": 1150.676
+ },
+ "t_lip_0.80": {
+  "m_total_gs": 38.124,
+  "coolant_pct_core": 3.15,
+  "T_max_blade": 1317.526,
+  "T_bulk_mean": 1150.826
+ },
+ "t_lip_0.85": {
+  "m_total_gs": 38.123,
+  "coolant_pct_core": 3.15,
+  "T_max_blade": 1317.003,
+  "T_bulk_mean": 1150.917
+ }
+}

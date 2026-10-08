@@ -1,0 +1,66 @@
+{
+  "Z": 66,
+  "note": "panel-method loading optimisation, exit angle held to the velocity triangle",
+  "hub": {
+    "cx": 35.0,
+    "k1": 48.91253322619215,
+    "k2": -59.853880368946236,
+    "a": 0.4788896100052711,
+    "rLE": 1.8,
+    "tmax": 8.0,
+    "xi_m": 0.2882548596972758,
+    "rTE": 0.45,
+    "wedge": 9.023566536936933,
+    "metrics": {
+      "diff": 1.1881138343824162,
+      "Mpk": 0.835438485342981,
+      "Zw": 0.9793182607587172,
+      "o_s": 0.4714667743314316,
+      "psdec": 0.19287654166989363
+    },
+    "source": "panel-method optimisation, hub"
+  },
+  "mean": {
+    "cx": 31.0,
+    "k1": 42.54872619043723,
+    "k2": -61.45320818149265,
+    "a": 0.44297836074372743,
+    "rLE": 1.8,
+    "tmax": 7.5,
+    "xi_m": 0.23622429637983441,
+    "rTE": 0.45,
+    "wedge": 9.874739737068307,
+    "metrics": {
+      "diff": 1.1938380850291062,
+      "Mpk": 0.9064602134204487,
+      "Zw": 1.0216980266768863,
+      "o_s": 0.45134600886783327,
+      "psdec": 0.033795480474110656
+    },
+    "source": "panel-method optimisation, mean"
+  },
+  "tip": {
+    "cx": 31.0,
+    "k1": 31.10281683443561,
+    "k2": -62.35906252232319,
+    "a": 0.4397544134475879,
+    "rLE": 1.8,
+    "tmax": 7.0,
+    "xi_m": 0.23987691887010443,
+    "rTE": 0.45,
+    "wedge": 9.756146813037894,
+    "metrics": {
+      "diff": 1.1707311764284534,
+      "Mpk": 0.9403933004225221,
+      "Zw": 0.9426165945028159,
+      "o_s": 0.43451655276777434,
+      "psdec": 0.0
+    },
+    "source": "panel-method optimisation, tip"
+  },
+  "lean_tip_mm": [
+    1.063,
+    2.216
+  ],
+  "lean_note": "linear stacking lean, zero at hub; balances design-point gas bending with centrifugal moment (ED-046)"
+}

@@ -1,0 +1,248 @@
+{
+ "geometry": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "slots": [
+  {
+   "slot": 0,
+   "z_mm": 255.45454545454547,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 1,
+   "z_mm": 259.3636363636364,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 2,
+   "z_mm": 263.27272727272725,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 3,
+   "z_mm": 267.1818181818182,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 4,
+   "z_mm": 271.09090909090907,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 5,
+   "z_mm": 275.0,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 6,
+   "z_mm": 278.9090909090909,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 7,
+   "z_mm": 282.8181818181818,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 8,
+   "z_mm": 286.7272727272727,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 9,
+   "z_mm": 290.6363636363636,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  },
+  {
+   "slot": 10,
+   "z_mm": 294.54545454545456,
+   "states": [
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void",
+    "void"
+   ],
+   "open": true
+  }
+ ],
+ "all_open": true
+}

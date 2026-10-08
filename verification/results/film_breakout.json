@@ -1,0 +1,1007 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "families": {
+  "showerhead": [
+   {
+    "hole": 0,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 16,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 17,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 18,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 19,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 20,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 21,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 22,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 23,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 24,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 25,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 26,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "SS_row": [
+   {
+    "hole": 0,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "SS2_row": [
+   {
+    "hole": 0,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "ends": [
+     {
+      "void_step": false,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     },
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     }
+    ],
+    "ok": true
+   }
+  ],
+  "tip_holes": [
+   {
+    "hole": 0,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "ends": [
+     {
+      "void_step": true,
+      "out_body": true,
+      "axis_in_body": true,
+      "ambient": true
+     },
+     {
+      "void_step": true,
+      "out_body": false,
+      "axis_in_body": true,
+      "ambient": false
+     }
+    ],
+    "ok": true
+   }
+  ]
+ },
+ "beyond_mm": 0.15,
+ "n_checked": 55,
+ "failures": [],
+ "PASS": true
+}

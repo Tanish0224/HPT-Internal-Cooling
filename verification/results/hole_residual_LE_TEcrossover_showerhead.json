@@ -1,0 +1,459 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "sha256": "4c14c283f21bb52f6cf5d5999b513e2f4c9afe97870de5d70162ee2868d56132",
+ "n_solids": 1,
+ "valid": true,
+ "tolerance_frac": 0.01,
+ "shrink": 0.9,
+ "families": {
+  "LE_jets": [
+   {
+    "hole": 0,
+    "tool_mm3": 0.5079994052464478,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "tool_mm3": 0.5079994330743227,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "tool_mm3": 0.5079994608292695,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "tool_mm3": 0.5079994876040133,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "tool_mm3": 0.507999513484254,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "tool_mm3": 0.5079995376149118,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "tool_mm3": 0.507999559685141,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "tool_mm3": 0.5079995792111865,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "tool_mm3": 0.5079995964338744,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "tool_mm3": 0.5079996111837362,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "tool_mm3": 0.5079996231819691,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "tool_mm3": 0.5079996328154409,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "tool_mm3": 0.5079996402410438,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "tool_mm3": 0.5079996456251541,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "tool_mm3": 0.5079996494575277,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "tool_mm3": 0.5079996520128622,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   }
+  ],
+  "TE_crossover": [
+   {
+    "hole": 0,
+    "tool_mm3": 0.4328514663094161,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "tool_mm3": 0.43285145276466647,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "tool_mm3": 0.4328514405520149,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "tool_mm3": 0.4328514296426235,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "tool_mm3": 0.4328514199042123,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "tool_mm3": 0.432851411202979,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "tool_mm3": 0.43285140393226484,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "tool_mm3": 0.43285139775531495,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "tool_mm3": 0.4328513922919439,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "tool_mm3": 0.43285138782168514,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "tool_mm3": 0.4328513842828179,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "tool_mm3": 0.4328513816155259,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "tool_mm3": 0.43285137948531416,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "tool_mm3": 0.4328513781330951,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "tool_mm3": 0.43285137724656175,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "tool_mm3": 0.43285137705177007,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 16,
+    "tool_mm3": 0.43285137750097086,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 17,
+    "tool_mm3": 0.43285137831326437,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 18,
+    "tool_mm3": 0.43285137946772423,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 19,
+    "tool_mm3": 0.4328513811673712,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   }
+  ],
+  "showerhead": [
+   {
+    "hole": 0,
+    "tool_mm3": 0.48695824957976663,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 1,
+    "tool_mm3": 0.4869582495798035,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 2,
+    "tool_mm3": 0.4869582495797843,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 3,
+    "tool_mm3": 0.48695824957977896,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 4,
+    "tool_mm3": 0.4869582495797655,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 5,
+    "tool_mm3": 0.48695824957974965,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 6,
+    "tool_mm3": 0.4869582495797954,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 7,
+    "tool_mm3": 0.4869582495797572,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 8,
+    "tool_mm3": 0.48695824957978967,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 9,
+    "tool_mm3": 0.48695824957980327,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 10,
+    "tool_mm3": 0.4869582495797756,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 11,
+    "tool_mm3": 0.4869582495797562,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 12,
+    "tool_mm3": 0.4869582495797846,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 13,
+    "tool_mm3": 0.4869582495797792,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 14,
+    "tool_mm3": 0.48695824957980827,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 15,
+    "tool_mm3": 0.48695824957979117,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 16,
+    "tool_mm3": 0.48695824957975986,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 17,
+    "tool_mm3": 0.48695824957979195,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 18,
+    "tool_mm3": 0.4869582495797646,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 19,
+    "tool_mm3": 0.4869582495798025,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 20,
+    "tool_mm3": 0.4869582495797855,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 21,
+    "tool_mm3": 0.486958249579794,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 22,
+    "tool_mm3": 0.4869582495797742,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 23,
+    "tool_mm3": 0.48695824957981904,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 24,
+    "tool_mm3": 0.48695824957978223,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 25,
+    "tool_mm3": 0.48695824957976974,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   },
+   {
+    "hole": 26,
+    "tool_mm3": 0.4869582495797683,
+    "residual_mm3": 0.0,
+    "residual_frac": 0.0,
+    "ok": true
+   }
+  ]
+ },
+ "failures": [],
+ "PASS": true
+}

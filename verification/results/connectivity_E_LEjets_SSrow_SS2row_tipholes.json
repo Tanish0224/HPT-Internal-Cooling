@@ -1,0 +1,18 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "parts": [
+  "E"
+ ],
+ "fams": [
+  "LE_jets",
+  "SS_row",
+  "SS2_row",
+  "tip_holes"
+ ],
+ "seed": 20261005,
+ "beyond_mm": 0.15,
+ "unintended": {
+  "pairs_tested": 22,
+  "found": []
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "faces": 1542,
+ "area_bands": {
+  "<0.001": 26,
+  "<0.01": 61,
+  "0.01-0.1": 271,
+  "<0.1": 332
+ },
+ "by_type": {
+  "CYLINDER": 296,
+  "BSPLINE": 320,
+  "PLANE": 926
+ },
+ "edges": 5072,
+ "edges_shorter_than_0p01_mm": 47,
+ "note": "Face areas from surface integration on the published baseline STEP."
+}

@@ -1,0 +1,617 @@
+{
+ "file": "GE_EEDP_P01_HPT_Blade_baseline.step",
+ "parts": [
+  "B"
+ ],
+ "fams": [
+  "showerhead",
+  "TE_crossover"
+ ],
+ "seed": 20261005,
+ "beyond_mm": 0.15,
+ "links": [
+  {
+   "a": "B3",
+   "b": "TE_crossover#0",
+   "overlap_mm3": 0.165,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#0",
+   "overlap_mm3": 0.1744,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#1",
+   "overlap_mm3": 0.1665,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#1",
+   "overlap_mm3": 0.1728,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#2",
+   "overlap_mm3": 0.1688,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#2",
+   "overlap_mm3": 0.1705,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#3",
+   "overlap_mm3": 0.1702,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#3",
+   "overlap_mm3": 0.1691,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#4",
+   "overlap_mm3": 0.1706,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#4",
+   "overlap_mm3": 0.1687,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#5",
+   "overlap_mm3": 0.1703,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#5",
+   "overlap_mm3": 0.169,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#6",
+   "overlap_mm3": 0.1698,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#6",
+   "overlap_mm3": 0.1695,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#7",
+   "overlap_mm3": 0.1693,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#7",
+   "overlap_mm3": 0.1699,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#8",
+   "overlap_mm3": 0.1692,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#8",
+   "overlap_mm3": 0.1701,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#9",
+   "overlap_mm3": 0.1694,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#9",
+   "overlap_mm3": 0.1699,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#10",
+   "overlap_mm3": 0.1696,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#10",
+   "overlap_mm3": 0.1697,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#11",
+   "overlap_mm3": 0.1699,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#11",
+   "overlap_mm3": 0.1694,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#12",
+   "overlap_mm3": 0.17,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#12",
+   "overlap_mm3": 0.1694,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#13",
+   "overlap_mm3": 0.1698,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#13",
+   "overlap_mm3": 0.1695,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#14",
+   "overlap_mm3": 0.1696,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#14",
+   "overlap_mm3": 0.1697,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#15",
+   "overlap_mm3": 0.1694,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#15",
+   "overlap_mm3": 0.1699,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#16",
+   "overlap_mm3": 0.1693,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#16",
+   "overlap_mm3": 0.17,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#17",
+   "overlap_mm3": 0.1695,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#17",
+   "overlap_mm3": 0.1698,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#18",
+   "overlap_mm3": 0.1698,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#18",
+   "overlap_mm3": 0.1695,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "B3",
+   "b": "TE_crossover#19",
+   "overlap_mm3": 0.17,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "TE",
+   "b": "TE_crossover#19",
+   "overlap_mm3": 0.1693,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#0",
+   "overlap_mm3": 0.404,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#1",
+   "overlap_mm3": 0.3923,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#2",
+   "overlap_mm3": 0.3938,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#3",
+   "overlap_mm3": 0.3926,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#4",
+   "overlap_mm3": 0.3863,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#5",
+   "overlap_mm3": 0.3827,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#6",
+   "overlap_mm3": 0.3849,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#7",
+   "overlap_mm3": 0.3832,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#8",
+   "overlap_mm3": 0.3687,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#9",
+   "overlap_mm3": 0.4201,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#10",
+   "overlap_mm3": 0.3985,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#11",
+   "overlap_mm3": 0.3937,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#12",
+   "overlap_mm3": 0.3937,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#13",
+   "overlap_mm3": 0.3882,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#14",
+   "overlap_mm3": 0.3806,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#15",
+   "overlap_mm3": 0.3782,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#16",
+   "overlap_mm3": 0.3778,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#17",
+   "overlap_mm3": 0.368,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#18",
+   "overlap_mm3": 0.3666,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#19",
+   "overlap_mm3": 0.3584,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#20",
+   "overlap_mm3": 0.3539,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#21",
+   "overlap_mm3": 0.3487,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#22",
+   "overlap_mm3": 0.3418,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#23",
+   "overlap_mm3": 0.3328,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#24",
+   "overlap_mm3": 0.3235,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#25",
+   "overlap_mm3": 0.3115,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  },
+  {
+   "a": "LE",
+   "b": "showerhead#26",
+   "overlap_mm3": 0.2997,
+   "n_points": 4,
+   "n_void": 4,
+   "ok": true,
+   "note": ""
+  }
+ ]
+}
