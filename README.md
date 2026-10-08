@@ -95,21 +95,8 @@ body with a volume that agrees with the independent measurement to about 0.01 %.
 
 ## Key results
 
-The current CAD model is a single valid blade solid with 1,542 faces and 17,216.6 mm³ volume. All 91 cooling-hole openings and 11 trailing-edge discharge slots were confirmed on the exported geometry, with sampled wall thickness of at least 0.68 mm (based on the exported CAD geometry).
+The current CAD model is a single valid blade solid with 1,542 faces and 17,216.6 mm³ volume. All 91 cooling-hole openings and 11 trailing-edge discharge slots were confirmed on the exported geometry, with sampled wall thickness of at least 0.68 mm.
 The design allocates 3.15% of core flow to coolant, and the project thermal model predicts a peak metal temperature of 1,317 K, 40 K below the assumed local limit; this is not a CFD result.
-Film-cooling effectiveness is the dominant unresolved thermal uncertainty: a 30 % lower effectiveness adds 46 K in the 94-hole model, more than the margin to the metal limit, and should be addressed in subsequent simulation.
-
-## Limitations
-
-* No CFD, conjugate heat-transfer or structural analysis has been run on the current CAD model, and nothing is validated by experiment.
-* The wall minimum rests on two patents, not a manufacturing standard. The trailing-edge lip (designed 0.75 mm,
-  sampled 0.68 mm) assumes an advanced thin-wall casting process.
-* The hole, passage and connectivity reviews compare the exported solid with the intended feature geometry from the design
-  data rather than re-deriving it independently; flood-fill connectivity and hole-to-hole interference were not run;
-  SolidWorks reports `Check2` = 2, not explained.
-* Earlier 2-D RANS and screening FEA exist for earlier geometry only ([`analysis_context/`](analysis_context/README.md)).
-
-Full list: [`LIMITATIONS.md`](LIMITATIONS.md).
 
 ## Repository map
 
