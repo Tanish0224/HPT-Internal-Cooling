@@ -46,8 +46,8 @@ from the published reference are separated from project assumptions in the statu
 |---|---|---|
 | Rotor-inlet gas | 1,700 K, 3.0 MPa; nozzle exit 600 m/s at 68° | ASSUMED, anchored to the NASA/GE Energy Efficient Engine HPT (rotor inlet 1,694 K) |
 | Blade speed | 350 m/s at 275 mm mean radius (12,154 rpm) | ASSUMED |
-| Stage | 66 blades, span 45 mm (252.5–297.5 mm radius), exit swirl −20° | DECISION; reaction 0.20 hub, 0.32 mean |
-| Sections | thickness/chord 0.21 hub, 0.19 mean, 0.17 tip; leading-edge radius 1.8 mm | DECISION, sized to fit six cavities |
+| Stage | 66 blades, span 45 mm (252.5–297.5 mm radius), exit swirl −20° | Reaction 0.20 hub, 0.32 mean |
+| Sections | thickness/chord 0.21 hub, 0.19 mean, 0.17 tip; leading-edge radius 1.8 mm | Sized to fit six cavities |
 | Coolant at the root | 879 K, 2.95 MPa; target about 3 % of core flow | CALCULATED from the reference engine's cooling source, with an assumed supply loss |
 | Metal limits | 1,357 K local, 1,226 K bulk | ASSUMED, anchored to the reference engine's coating and pitch-line temperatures |
 | Walls | 1.0 mm skin, 0.9 mm webs, 0.75 mm trailing-edge lip | DECISION; no manufacturing source (see [limitations](LIMITATIONS.md)) |
