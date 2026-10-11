@@ -103,8 +103,4 @@ The design allocates 3.15% of core flow to coolant, and the project thermal mode
 | [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) | where each number comes from |
 | [`figures/`](figures/README.md) | figures and their sources |
 
-This repository has not undergone independent external review.
-
-Project by **Tanish Shetty**. Tools: Python (NumPy) for design calculations, SolidWorks 2026
-(import and volume comparison), ANSYS Fluent 2025 R1 and ANSYS MAPDL 2025 R1 (earlier geometry only). Code is MIT-licensed; CAD and figures
 are covered by [`ASSET_NOTICE.md`](ASSET_NOTICE.md).
